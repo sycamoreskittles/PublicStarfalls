@@ -80,7 +80,7 @@ timer.create( "float", 0.1, 0, function()
     else
         KeepItZeroed = Angle(oEA.p,oEA.y,0)
     end
-    -- You should have the "Hands" weapon in your loadout; this may cause an error if you do not (I haven't tested and not going to, it's nearly 3 in the morning)
+    -- You should have the "Hands" weapon in your loadout; this may cause an error if you do not (I haven't tested and not going to, it's nearly 3 in the morning) // LOL i forgot i left this in here, but it is true I was up at around 3 in the morning on a school night trying to make the whole thing work
     local hands = chipOwner:getWeapon("none")
     -- Checks if the current held weapon is "Hands". This can be exchanged for other weapons (such as PAC weapons) but it's not recommended
     if( ownerWeapon == hands ) then
