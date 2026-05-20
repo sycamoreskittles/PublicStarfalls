@@ -5,3 +5,4 @@ The conduct goes:
   3. Use of any of these starfalls is at your own risk. Misuse is not on the author, or on me. It is on the user.
   4. Please try to optimize your chips. This does not require it to be using less than 100 CPUs, but it should not be averaging 500+ CPUs.
   5. If possible, make it an @shared starfall, or @client to conserve server resources, especially if they use a large CPU amount.
+  6. You agree that when submitting a starfall, your code may be modified and used by other users. 
