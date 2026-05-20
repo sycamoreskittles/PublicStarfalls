@@ -1,0 +1,2 @@
+For starfalls, they are formatted as .lua files. It is recommended to simply copy and paste the content of files into the editor.
+Anyone uploading should format them as .lua. It is possible to read files as .txt, but it is discouraged.
