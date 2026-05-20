@@ -3,3 +3,4 @@
 @outputs PACKED:array
 @trigger all
 PACKED = array( I1, I2, I3, I4, I5, I6, I7, I8, I9, I10 )
+" Changing the datatypes for the inputs is all you need to do to make this into another kind of packer. If you want, use this as an input consolidator. "
