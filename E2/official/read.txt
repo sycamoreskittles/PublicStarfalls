@@ -1,0 +1,2 @@
+These are some chips I've made in E2. Likely, unless a bug is found or an optimization is made, they may not be updated, aside from EGPs and some things used in tandem with Starfall.
+Most of, if not all, were solely authored by me, and most have code dating back six months. They may use some deprecated or less-useful code.
