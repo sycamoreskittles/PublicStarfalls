@@ -1,0 +1,2 @@
+I do not understand Wire CPU, nor can I be bothered to learn it. If you have some chips from it and want them submitted, please do.
+The same rules apply here as E2 and Starfall, except head your file as .asm.
