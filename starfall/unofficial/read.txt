@@ -1,0 +1,7 @@
+This is the folder for unofficial starfall submissions, likely from a pull request.
+The conduct goes:
+  1. Do not submit malicious starfalls. Chips meant to target, hinder, or disturb players/servers are forbidden.
+  2. If someone other than yourself helped you code, please credit them. Specific parts being credited is not required, however include them in the authors parameter.
+  3. Use of any of these starfalls is at your own risk. Misuse is not on the author, or on me. It is on the user.
+  4. Please try to optimize your chips. This does not require it to be using less than 100 CPUs, but it should not be averaging 500+ CPUs.
+  5. If possible, make it an @shared starfall, or @client to conserve server resources, especially if they use a large CPU amount.
